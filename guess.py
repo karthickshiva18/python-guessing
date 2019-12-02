@@ -1,5 +1,5 @@
 import random
-n = 100
+n = 500
 to_be_guessed = int(n * random.random()) + 1
 guess = 0
 while guess != to_be_guessed:
